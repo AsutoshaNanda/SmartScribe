@@ -411,7 +411,7 @@ If you use SmartScribe in your project, please cite:
 
 <div align="center">
 
-**[⬆ Back to Top](#-smartscribe)**
+**[⬆ Back to Top](#-SmartScribe)**
 
 **Intelligent Audio Transcription & Meeting Documentation**  
 Powered by Advanced LLMs and Faster-Whisper
