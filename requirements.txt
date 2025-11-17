@@ -1,0 +1,13 @@
+gradio
+torch
+transformers
+openai-whisper
+yt-dlp
+pydub
+bitsandbytes
+accelerate
+faster-whisper
+silero-vad
+pycountry
+huggingface-hub
+ffmpeg-python
