@@ -16,6 +16,16 @@
 
 </div>
 
+---
+
+## 📖 About
+
+SmartScribe is an intelligent audio-to-text platform that transforms audio and video content into actionable insights. Built with state-of-the-art AI technologies including Faster-Whisper for transcription and multiple Large Language Models (LLaMA, PHI, QWEN, DeepSeek, Gemma), SmartScribe automatically converts speech into accurate transcripts, generates comprehensive meeting minutes, and provides seamless multi-language translation.
+
+Whether you're transcribing podcasts, extracting key points from meetings, or translating content across languages, SmartScribe delivers professional-grade results through an intuitive web interface. The platform leverages GPU acceleration and 4-bit quantization to provide fast, efficient processing while maintaining high-quality output.
+
+---
+
 <div align="center">
 <h2>📋 Table of Contents</h2>
 <table>
